@@ -6,4 +6,4 @@ b = 20
 print (hello)
 
 
-print ("welcme to GitHUb")
+print ("Welcome to DT3")
